@@ -3,7 +3,7 @@
 Bu repo Kodluyoruz [Kodluyoruz] (https://www.kodluyoruz.org/) GIT eğitimimde oluşturduğum ilk repo.
 İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-![github](img/github.png)
+![github](kodluyoruzilkrepo/img/github.PNG)
 
 ## Installtion
 
