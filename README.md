@@ -3,11 +3,7 @@
 Bu repo Kodluyoruz [Kodluyoruz] (https://www.kodluyoruz.org/) GIT eğitimimde oluşturduğum ilk repo.
 İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-<<<<<<< HEAD
-![github](img/github.PNG)
-=======
-![github](kodluyoruzilkrepo/img/github.PNG)
->>>>>>> 976054f29ddeacb10af0b5196664f6e8047d61c5
+![github](projeresmi.PNG)
 
 ## Installtion
 
@@ -33,8 +29,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT] (https://choosealicense.com/licenses/mit/)
-<<<<<<< HEAD
 
 [def]: img/github.png
-=======
->>>>>>> 976054f29ddeacb10af0b5196664f6e8047d61c5
